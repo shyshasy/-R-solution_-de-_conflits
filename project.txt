@@ -1,1 +1,5 @@
-Étape 1 : Planification initiale\nÉtape 2 : Conception détaillée\nÉtape 4 : Tests
+Étape 1 : Planification initiale et avancée
+Étape 2 : Architecture du système et Conception détaillée
+Étape 3 : Développement
+Étape 4 : Tests
+Étape 5 : Maintenance
