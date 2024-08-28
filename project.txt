@@ -1,1 +1,1 @@
-Étape 1 : Planification\nÉtape 2 : Conception\nÉtape 3 : Développement
+Étape 1 : Planification avancée\nÉtape 2 : Architecture du système\nÉtape 3 : Développement\nÉtape 5 : Maintenance
